@@ -1,0 +1,24 @@
+.abc {
+    text-align: center;
+}
+
+input {
+    font-size: 26px;
+    border-radius: 21px;
+    border-color: brown;
+}
+
+button {
+    background: rgb(140, 235, 63);
+    font-size: 22px;
+    width: 58px;
+    height: 50px;
+    border-radius: 18px;
+}
+
+.calculator {
+    display: inline-block;
+    background-color: rgb(117, 116, 119);
+    border-radius: 20;
+    width: 330px;
+}
